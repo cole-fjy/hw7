@@ -255,5 +255,3 @@ canvas.addEventListener("mousemove",function(evt){
   mouse.x = evt.offsetX  //相對於畫布上的距離
   mouse.y = evt.offsetY
 })
-
-
